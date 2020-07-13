@@ -10,7 +10,7 @@
 🌍Dreaming of **travel to** as many countries as possible.
 
 📖**Skills?**  
-**System admin:** Especialized on CentOS/RedHat. Knowledge on servers DNS, DHCP, FTP, WEB, email, instant messaging, VoIP and Streaming. DB admin, software containers (Docker), git, Cisco Routing and Switching networks. Wordpress and Joomla CMS.  
+**System admin:** Especialized on CentOS/RedHat. Knowledge on servers DNS, DHCP, FTP, WEB, email, instant messaging, VoIP and Streaming. DB admin, software containers (Docker), git, Cisco Routing and Switching networks. Pentesting. Wordpress and Joomla CMS.  
 **Frontend:** JS, TS. JQuery, Angular8, React. NestJS, NodeJS, ExpressJS. Advanced CSS, responsive desing, SASS.   
 **Backend:** MySQL/MariaDB, MongoDB. Advanced PHP with Laravel and Symphony. MVC.
 
