@@ -1,13 +1,13 @@
 ### David Miguel Fajardo Oubiña | @dawichi
 🖐Hi!, I'm a Linux **system administrator**, self-taught full-stack **web developer**.
 
-📚Currently increasing my knowledge on programming, learning on [Udemy][1], [Platzi][2] and [w3schools][3].  
+📚Currently increasing my knowledge on programming, learning on [Udemy][1], [Platzi][2] & [w3schools][3].  
 👨‍💻I intend to start **Software Engineering** this year and I'm looking for a proyect to colaborate with!
 
-😄**Polyglot**, mastering my 4º & 5º langs.
+😄**Polyglot**, mastering my 4º & 5º langs.  
 🏀**Sport** lover, no matter which!  
-👨‍🔬I love learn new things by myself, discover how things works and understand everything around me.  
-🌍Dreaming of visit as many different countries as possible.
+👨‍🔬I love **learn** new things by myself, discover how things works and understand everything around me.  
+🌍Dreaming of **travel to** as many countries as possible.
 
 📖**Skills?**  
 **System admin:** Especialized on CentOS/RedHat. Knowledge on servers DNS, DHCP, FTP, WEB, email, instant messaging, VoIP and Streaming. DB admin, software containers (Docker), git, Cisco Routing and Switching networks. Wordpress and Joomla CMS.  
@@ -22,6 +22,8 @@
 [1]: https://www.udemy.com/ "udemy.com"
 [2]: https://platzi.com/ "platzi.com"
 [3]: https://www.w3schools.com/ "w3schools.com"
+
+
 <!--
 **Dawichi/Dawichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
