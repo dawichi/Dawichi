@@ -1,8 +1,8 @@
 ### David Miguel Fajardo Oubiña | @dawichi
-🖐Hi!, I'm a Linux **system administrator**, self-taught full-stack **web developer**.
+🖐Hi!, I'm a Linux **system administrator** and self-taught full-stack **web developer**.
 
-📚Currently increasing my knowledge on programming, learning on [Udemy][1], [Platzi][2] & [w3schools][3].  
-👨‍💻I intend to start **Software Engineering** this year and I'm looking for a proyect to colaborate with!
+📚Currently I'm increasing my knowledge on programming, learning on [Udemy][1], [Platzi][2] & [w3schools][3].  
+👨‍💻I intend to start **Software Engineering** next year and I'm looking for a proyect to colaborate with!
 
 😄**Polyglot**, mastering my 4º & 5º langs.  
 🏀**Sport** lover, no matter which!  
@@ -10,7 +10,7 @@
 🌍Dreaming of **travel to** as many countries as possible.
 
 📖**Skills?**  
-**System admin:** Especialized on CentOS/RedHat. Knowledge on servers DNS, DHCP, FTP, WEB, email, instant messaging, VoIP and Streaming. DB admin, software containers (Docker), git, Cisco Routing and Switching networks. Pentesting. Wordpress and Joomla CMS.  
+**System admin:** Especialized on CentOS/RedHat. Knowledge on services DNS, DHCP, FTP, WEB, email, instant messaging, VoIP and Streaming. DB admin (MySQL/MariaDB), software containers (Docker), git, Cisco Routing and Switching networks. Pentesting. Wordpress and Joomla CMS.  
 **Frontend:** JS, TS. JQuery, Angular8, React. NestJS, NodeJS, ExpressJS. Advanced CSS, responsive desing, SASS.   
 **Backend:** MySQL/MariaDB, MongoDB. Advanced PHP with Laravel and Symphony. MVC.
 
