@@ -1,5 +1,6 @@
 ### David Miguel Fajardo Oubiña | @dawichi
 🖐Hi!
+
 My name is David, I'm a 21 years old **system administrator** and self-taught **web developer**.
 
 📚Currently I'm increasing my knowledge on programming, learning on [Udemy][1], [Platzi][2] & [w3schools][3].  
