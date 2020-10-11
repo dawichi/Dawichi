@@ -1,16 +1,19 @@
 ### David Miguel Fajardo Oubiña | @dawichi
-🖐Hi! My name is David, I'm a 21 years old **system administrator** and self-taught **web developer**.
 
-📚Currently I'm increasing my knowledge on programming, learning on [Udemy][1], [Platzi][2] & [w3schools][3].  
-👨‍💻I intend to start **Software Engineering** next year and I'm looking for a proyect to colaborate with!
+#### About me
+🖐Hi! My name is David, I'm a 21 years old **system admin** and self-taught **web developer**.
 
-😄**Polyglot**, mastering my 4º & 5º langs.  
-🏀**Sport** lover, no matter which!  
-👨‍🔬I love **learn** new things by myself, discover how things works and understand everything around me.  
-🌍Dreaming of **travel to** as many countries as possible.
+💻 I'm currently doing an internship as a sysadmin at [nubodata][1], deploying a network monitoring system.  
+📚 I'm increasing my knowledge on programming learning on [Udemy][2], [Platzi][3] & [w3schools][4].  
+👨‍💻 I intend to start **Software Engineering** next year.
 
-#### 📖Skills?
----
+😄 **Polyglot**, mastering my 4º & 5º langs.  
+🏀 **Sport** lover, no matter which!  
+👨‍🔬 I love **learn** new things by myself, discover how things works and understand everything around me.  
+🌍 Dreaming of **travel to** as many countries as possible.  
+
+
+#### Skills
 **System admin:**   
 Especialized on CentOS/RedHat. Knowledge on services DNS, DHCP, FTP, WEB, email, instant messaging, VoIP and Streaming. DB admin (MySQL/MariaDB), software containers (Docker), git, Cisco Routing and Switching networks. Pentesting. Wordpress and Joomla CMS.  
 **Frontend:**  
@@ -26,9 +29,10 @@ MySQL/MariaDB, MongoDB. Advanced PHP with Laravel and Symphony. MVC.
 
 
 <!-- Links -->
-[1]: https://www.udemy.com/ "udemy.com"
-[2]: https://platzi.com/ "platzi.com"
-[3]: https://www.w3schools.com/ "w3schools.com"
+[1]: https://nubodata.com/ "nubodata.com"
+[2]: https://www.udemy.com/ "udemy.com"
+[3]: https://platzi.com/ "platzi.com"
+[4]: https://www.w3schools.com/ "w3schools.com"
 
 
 
