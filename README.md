@@ -1,6 +1,6 @@
-### David Miguel Fajardo Oubiña | @dawichi
+## David Miguel Fajardo Oubiña | @dawichi
 
-#### About me
+### About me
 🖐Hi! My name is David, I'm a 21 years old **system admin** and self-taught **web developer**.
 
 💻 I'm currently doing an internship as a sysadmin at [nubodata][1], deploying a network monitoring system.  
@@ -13,7 +13,7 @@
 🌍 Dreaming of **travel to** as many countries as possible.  
 
 
-#### Skills
+### Skills
 **System admin:**   
 Especialized on CentOS/RedHat. Knowledge on services DNS, DHCP, FTP, WEB, email, instant messaging, VoIP and Streaming. DB admin (MySQL/MariaDB), software containers (Docker), git, Cisco Routing and Switching networks. Pentesting. Wordpress and Joomla CMS.  
 **Frontend:**  
