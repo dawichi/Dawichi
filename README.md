@@ -15,16 +15,33 @@
 ### Skills
 
 **Sysadmin:**
-Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, email, IM, VoIP and Streaming. SQL databases administration. Software containers (<img height="50" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg"/>). Cisco Routing and Switching. Pentesting.
+Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, email, IM, VoIP and Streaming. SQL databases administration. Software containers (<img width="30" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg"/>). Cisco Routing and Switching. Pentesting.
 
 **Frontend:**
-<img height="50" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"/><img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg" alt="img" style="width:50px" /><img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="img" style="width: 50px" /><img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="img" style="width:50px" /><img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" alt="img" style="width:50px" /><img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="img" style="width: 50px" /><img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="img" style="width:50px" />
+<img width="30" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"/>
+<img width="30" src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg" />
+<img width="30" src="https://devicon.dev/devicon.git/icons/react/react-original.svg" />
+<img width="30" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg"  />
+<img width="30" src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" />
+<img width="30" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg"  />
+<img width="30" src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" />
 
 **Backend:**
- <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" alt="img" style="width: 50px" /><img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="img" style="width: 50px" /><img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="img" style="width:50px" /><img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="img" style="width: 50px" /> <img src="https://devicon.dev/devicon.git/icons/php/php-plain.svg" alt="img" style="width: 50px" /><img src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain.svg" alt="img" style="width: 50px" /><img src="https://devicon.dev/devicon.git/icons/symfony/symfony-original.svg" alt="img" style="width: 50px" />
+<img width="30" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" />
+<img width="30" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" />
+<img width="30" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" />
+<img width="30" src="https://devicon.dev/devicon.git/icons/express/express-original.svg"  />
+<img width="30" src="https://devicon.dev/devicon.git/icons/php/php-plain.svg" />
+<img width="30" src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain.svg" />
+<img width="30" src="https://devicon.dev/devicon.git/icons/symfony/symfony-original.svg" />
 
 **Other technologies:**
-<img src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-plain.svg" alt="img" style="width: 50px" /><img src="https://devicon.dev/devicon.git/icons/slack/slack-original.svg" alt="img" style="width:50px" /><img src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" alt="img" style="width: 50px" /><img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="img" style="width: 50px" /><img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="img" style="width:50px" />
+<img width="30" src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-plain.svg" />
+<img width="30" src="https://devicon.dev/devicon.git/icons/slack/slack-original.svg" />
+<img width="30" src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" />
+<img width="30" src="https://devicon.dev/devicon.git/icons/git/git-original.svg" />
+<img width="30" src="https://devicon.dev/devicon.git/icons/github/github-original.svg" />
+
 
 ---
 
