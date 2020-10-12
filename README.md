@@ -12,20 +12,7 @@
 👨‍🔬 I love **learn** new things by myself, discover how things works and understand everything around me.  
 🌍 Dreaming of **travel to** as many countries as possible.  
 
-### Skills
-**Sysadmin:**
-Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, email, IM, VoIP and Streaming. SQL databases administration. Software containers (<img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="img" style="width: 50px" />). Cisco Routing and Switching. Pentesting.
-**Frontend:**
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="img" style="width:50px" /><img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg" alt="img" style="width:50px" /><img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="img" style="width: 50px" /><img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="img" style="width:50px" /><img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" alt="img" style="width:50px" /><img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="img" style="width: 50px" /><img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="img" style="width:50px" />
 
-**Backend:**
-<img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" alt="img" style="width: 50px" /><img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="img" style="width: 50px" /><img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="img" style="width:50px" /><img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="img" style="width: 50px" /> <img src="https://devicon.dev/devicon.git/icons/php/php-plain.svg" alt="img" style="width: 50px" /><img src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain.svg" alt="img" style="width: 50px" /><img src="https://devicon.dev/devicon.git/icons/symfony/symfony-original.svg" alt="img" style="width: 50px" />
-
-**Other technologies:**
-<img src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-plain.svg" alt="img" style="width: 50px" /><img src="https://devicon.dev/devicon.git/icons/slack/slack-original.svg" alt="img" style="width:50px" /><img src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" alt="img" style="width: 50px" /><img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="img" style="width: 50px" /><img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="img" style="width:50px" />
-
----
-<!--
 ### Skills
 **System admin:**   
 Especialized on CentOS/RedHat. Knowledge on services DNS, DHCP, FTP, WEB, email, instant messaging, VoIP and Streaming. DB admin (MySQL/MariaDB), software containers (Docker), git, Cisco Routing and Switching networks. Pentesting. Wordpress and Joomla CMS.  
@@ -33,7 +20,7 @@ Especialized on CentOS/RedHat. Knowledge on services DNS, DHCP, FTP, WEB, email,
 JS, TS. JQuery, Angular8, React. NestJS, NodeJS, ExpressJS. Advanced CSS, responsive desing, SASS.   
 **Backend:**  
 MySQL/MariaDB, MongoDB. Advanced PHP with Laravel and Symphony. MVC.
--->
+
 
 ✍If you are searching for new contributors for a proyect, wanna ask me something or offer me a job, you can contact me on:
 * 📧: davidmf99@gmail.com
