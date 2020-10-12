@@ -58,7 +58,10 @@ Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, ema
 [3]: https://platzi.com/ "platzi.com"
 [4]: https://www.w3schools.com/ "w3schools.com"
 
-
+<!--
+Icons from https://devicon.dev/
+https://github.com/devicons/devicon/
+-->
 
 
 
