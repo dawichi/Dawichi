@@ -15,7 +15,7 @@
 
 ### Skills
 **Sysadmin:**  
-Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, email, IM, VoIP and Streaming. SQL databases administration. Software containers (<img width="30" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg"/>). Cisco Routing and Switching. Pentesting.
+Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, email, IM, VoIP and Streaming. SQL databases administration. Software containers (Docker). Cisco Routing and Switching. Pentesting.
 
 **Frontend:**  
 <img width="30" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"/>
