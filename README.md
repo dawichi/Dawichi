@@ -14,10 +14,10 @@
 
 ### Skills
 
-**Sysadmin:**
+**Sysadmin:**  
 Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, email, IM, VoIP and Streaming. SQL databases administration. Software containers (<img width="30" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg"/>). Cisco Routing and Switching. Pentesting.
 
-**Frontend:**
+**Frontend:**  
 <img width="30" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"/>
 <img width="30" src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg" />
 <img width="30" src="https://devicon.dev/devicon.git/icons/react/react-original.svg" />
@@ -26,7 +26,7 @@ Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, ema
 <img width="30" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg"  />
 <img width="30" src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" />
 
-**Backend:**
+**Backend:**  
 <img width="30" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" />
 <img width="30" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" />
 <img width="30" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" />
@@ -35,7 +35,7 @@ Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, ema
 <img width="30" src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain.svg" />
 <img width="30" src="https://devicon.dev/devicon.git/icons/symfony/symfony-original.svg" />
 
-**Other technologies:**
+**Other technologies:**  
 <img width="30" src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-plain.svg" />
 <img width="30" src="https://devicon.dev/devicon.git/icons/slack/slack-original.svg" />
 <img width="30" src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" />
