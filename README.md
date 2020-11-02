@@ -2,8 +2,8 @@
 
 ### About me
 🖐Hi! My name is David, I'm a 21 years old **system admin** and self-taught **web developer**.
-
-💻 I'm currently doing an internship as sysadmin at [nubodata][1], deploying a network monitoring system. 
+ 
+💻 I'm currently doing an internship as sysadmin at [nubodata][1], deploying a network monitoring system.  
 📚 I'm increasing my knowledge on programming learning on [Udemy][2], [Platzi][3] & [w3schools][4].  
 👨‍💻 I intend to start **Software Engineering** next year.
 
