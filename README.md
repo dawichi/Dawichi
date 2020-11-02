@@ -3,14 +3,20 @@
 ### About me
 🖐Hi! My name is David, I'm a 21 years old **system admin** and self-taught **web developer**.
 
-💻 I'm currently doing an internship as sysadmin at [nubodata][1], deploying a network monitoring system.  
+💻 I'm currently doing an internship as sysadmin at [nubodata][1], deploying a network monitoring system. 
 📚 I'm increasing my knowledge on programming learning on [Udemy][2], [Platzi][3] & [w3schools][4].  
 👨‍💻 I intend to start **Software Engineering** next year.
 
 😄 **Polyglot**, mastering my 4º & 5º langs.  
 🏀 **Sport** lover, no matter which!  
 👨‍🔬 I love **learn** new things by myself, discover how things works and understand everything around me.  
-🌍 Dreaming of **travel to** as many countries as possible.  
+🌍 Dreaming of **travel to** as many countries as possible!  
+<img alt="spain" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-spain_1f1ea-1f1f8.png" width="30" />
+<img alt="portugal" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-portugal_1f1f5-1f1f9.png" width="30" />
+<img alt="andorra" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-andorra_1f1e6-1f1e9.png" width="30" />
+<img alt="czech" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-czech-republic_1f1e8-1f1ff.png" width="30" />
+<img alt="germany" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-germany_1f1e9-1f1ea.png" width="30" />
+<img alt="france" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-france_1f1eb-1f1f7.png" width="30" />
 
 
 ### Skills
