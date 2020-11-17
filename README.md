@@ -57,6 +57,14 @@ Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, ema
 
 ♥Thanks for reading and have a nice day!
 
+<div>
+<img style="float:left" height="165px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawichi&layout=compact&theme=tokyonight" />
+<img style="float:left" height="165px" align="center" src="https://github-readme-stats.vercel.app/api?username=dawichi&show_icons=true&include_all_commits=true&theme=tokyonight" />
+</div>
+
+
+
+
 
 <!-- Links -->
 [1]: https://nubodata.com/ "nubodata.com"
@@ -68,13 +76,6 @@ Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, ema
 Icons from https://devicon.dev/
 https://github.com/devicons/devicon/
 -->
-
-
-
-
-
-
-
 
 
 <!--
