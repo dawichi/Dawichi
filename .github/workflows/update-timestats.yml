@@ -2,7 +2,7 @@ name: wakatime-stats
 
 on:
   schedule:
-    - cron: '0 18 * * *'
+    - cron: '* * * * *'
 
 jobs:
   update-readme:
@@ -13,7 +13,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: dawichi # optional, it will automatically use the username of the owner of the repository who's executing the workflow.
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "False"
