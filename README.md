@@ -59,7 +59,7 @@ Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, ema
 <div>
  <img style="float:left" height="165px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawichi&layout=compact&theme=tokyonight" />
  <img style="float:left" height="165px" align="center" src="https://github-readme-stats.vercel.app/api?username=dawichi&show_icons=true&include_all_commits=true&theme=tokyonight" />
-</div>
+</div><br/>
 
 
 <!--START_SECTION:waka-->
