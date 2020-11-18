@@ -56,51 +56,19 @@ Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, ema
 
 ---
 
+<!-- Github Readme Stats - Most used languages and user info -->
 <div>
  <img style="float:left" height="165px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawichi&layout=compact&theme=tokyonight" />
  <img style="float:left" height="165px" align="center" src="https://github-readme-stats.vercel.app/api?username=dawichi&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </div><br/>
 
 
+<!-- Wakatime Stats -->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.0%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    110 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   7.12% 
-🌆 Daytime    566 commits    █████████░░░░░░░░░░░░░░░░   36.66% 
-🌃 Evening    584 commits    █████████░░░░░░░░░░░░░░░░   37.82% 
-🌙 Night      284 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.39%
-```
-
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       245 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.87% 
-Tuesday      253 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
-Wednesday    279 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.07% 
-Thursday     151 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.78% 
-Friday       225 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
-Saturday     232 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
-Sunday       159 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.3%
-```
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-Go                       16 hrs 37 mins      ██████████████████░░░░░░░   72.98% 
-C++                      1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
-Protocol Buffer          1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.74% 
-Python                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.55% 
-Other                    42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14%
-```
 <!--END_SECTION:waka-->
 
 
+---
 
 ♥Thanks for reading and have a nice day!
 
@@ -122,8 +90,15 @@ Other                    42 mins             ░░░░░░░░░░░�
 [4]: https://www.w3schools.com/ "w3schools.com"
 
 <!--
-Icons from https://devicon.dev/
+Icons from:
+https://devicon.dev/
 https://github.com/devicons/devicon/
+
+Stats from:
+https://github.com/anuraghazra/github-readme-stats
+
+Wakatime stats from:
+https://github.com/anmol098/waka-readme-stats
 -->
 
 
