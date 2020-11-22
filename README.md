@@ -115,7 +115,6 @@ Sunday       8 commits      ██░░░░░░░░░░░░░░░�
 
 
 
-
 <!-- Links -->
 [1]: https://nubodata.com/ "nubodata.com"
 [2]: https://www.udemy.com/ "udemy.com"
