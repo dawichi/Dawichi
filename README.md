@@ -7,7 +7,7 @@
 📚 I'm increasing my knowledge on programming learning on [Udemy][2], [Platzi][3] & [w3schools][4].  
 👨‍💻 I intend to start **Software Engineering** next year.
 
-😄 **Polyglot**, mastering my 4º & 5º langs.  
+😄 <span title="Spanish, Galician, English">**Polyglot**</span>, mastering my <span title="German">4º</span> & <span title="Korean">5º</span> langs.  
 🏀 **Sport** lover, no matter which!  
 👨‍🔬 I love **learn** new things by myself, discover how things works and understand everything around me.  
 🌍 Dreaming of **travel to** as many countries as possible!  
