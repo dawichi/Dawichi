@@ -90,14 +90,6 @@ Sunday       9 commits      ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Madrid
-
-```
-
-
 <!--END_SECTION:waka-->
 
 
