@@ -53,6 +53,8 @@ Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, ema
 
 - 📧: [davidmf99@gmail.com](mailto:davidmf99@gmail.com)
 
+My npm card! `npx dawichi`
+
 
 ---
 
