@@ -53,8 +53,6 @@ Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, ema
 
 - 📧: [davidmf99@gmail.com](mailto:davidmf99@gmail.com)
 
-My npm card! `npx dawichi`
-
 
 ---
 
@@ -64,6 +62,7 @@ My npm card! `npx dawichi`
  <img style="float:left" height="165px" align="center" src="https://github-readme-stats.vercel.app/api?username=dawichi&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </div><br/>
 
+My npm card! `npx dawichi` <br/>
 
 <!-- Wakatime Stats -->
 <!--START_SECTION:waka-->
