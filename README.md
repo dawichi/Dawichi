@@ -66,7 +66,7 @@ My npm card! `npx dawichi` <br/>
 
 <!-- Wakatime Stats -->
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-196-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-207-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-906976%20lines%20of%20code-blue)
 
@@ -96,6 +96,16 @@ Sunday       9 commits      ██░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
+💬 Programming Languages: 
+JavaScript               4 hrs 47 mins       ████████████░░░░░░░░░░░░░   48.74% 
+HTML                     3 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   34.82% 
+JSON                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.42% 
+Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.56% 
+Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07%
+
+🔥 Editors: 
+VS Code                  9 hrs 48 mins       █████████████████████████   100.0%
+
 ```
 
 
