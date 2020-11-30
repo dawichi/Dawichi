@@ -116,7 +116,7 @@ VS Code                  11 hrs 53 mins      ███████████�
 
 ---
 
-♥Thanks for reading and have a nice day!
+♥ Thanks for reading and have a nice day!
 
 
 
