@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/dawichi?label=Follow&style=social)-->
 [![Linkedin: dawichi](https://img.shields.io/badge/-dawichi-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawichi/)](https://www.linkedin.com/in/dawichi/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/dawichi_?label=Follow)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dawichi.dawichi)
+
 ### About me
 🖐Hi! My name is David, I'm a 21 years old **system admin** and **web developer**.
  
