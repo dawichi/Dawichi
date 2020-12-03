@@ -53,26 +53,15 @@ Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, ema
 
 - 📧: [davidmf99@gmail.com](mailto:davidmf99@gmail.com)
 
-
 ---
 
+***New:*** My npm card! `npx dawichi`<br/>
+
 <!-- Github Readme Stats - Projects, most used languages and user info -->
-### Highlighted projects:
-
-***New:*** My npm card! `npx dawichi`
-<div>
- <img style="float:left" height="165px" width="40%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dawichi&repo=cloud-app&theme=tokyonight" />
- <img style="float:left" height="165px" width="40%"align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dawichi&repo=w3-bootstrap4&theme=tokyonight" />
-</div>
-
-### And more data:
-
 <div>
  <img style="float:left" height="165px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawichi&layout=compact&theme=tokyonight" />
  <img style="float:left" height="165px" align="center" src="https://github-readme-stats.vercel.app/api?username=dawichi&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </div><br/>
-
-
 
 <!-- Wakatime Stats -->
 <!--START_SECTION:waka-->
