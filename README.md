@@ -1,7 +1,12 @@
 ## David Miguel Fajardo Oubiña | @dawichi
 
+<!--[![website](https://img.shields.io/badge/Website-46a2f1.svg?&logo=Google-Chrome&logoColor=white&link=https://dawichi.github.io/)](https://dawichi.github.io/)
+![GitHub followers](https://img.shields.io/github/followers/dawichi?label=Follow&style=social)-->
+[![Linkedin: dawichi](https://img.shields.io/badge/-dawichi-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawichi/)](https://www.linkedin.com/in/dawichi/)
+![Twitter Follow](https://img.shields.io/twitter/follow/dawichi_?label=Follow)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dawichi.dawichi)
 ### About me
-🖐Hi! My name is David, I'm a 21 years old **system admin** and self-taught **web developer**.
+🖐Hi! My name is David, I'm a 21 years old **system admin** and **web developer**.
  
 💻 I'm currently doing an internship as sysadmin at [nubodata][1], deploying a network monitoring system.  
 📚 I'm increasing my knowledge on programming learning on [Udemy][2], [Platzi][3] & [w3schools][4].  
