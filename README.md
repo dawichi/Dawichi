@@ -3,7 +3,7 @@
 <!--[![website](https://img.shields.io/badge/Website-46a2f1.svg?&logo=Google-Chrome&logoColor=white&link=https://dawichi.github.io/)](https://dawichi.github.io/)
 ![GitHub followers](https://img.shields.io/github/followers/dawichi?label=Follow&style=social)-->
 [![Linkedin: dawichi](https://img.shields.io/badge/-dawichi-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawichi/)](https://www.linkedin.com/in/dawichi/)
-![Twitter Follow](https://img.shields.io/twitter/follow/dawichi_?label=Follow)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dawichi_?label=Follow)](https://twitter.com/dawichi_)
 
 ### About me
 🖐Hi! My name is David, I'm a 21 years old **system admin** and **web developer**.
