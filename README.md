@@ -64,8 +64,8 @@ Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, ema
 
 <!-- Github Readme Stats - Projects, most used languages and user info -->
 <div>
- <img style="float:left" height="165px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawichi&layout=compact&theme=tokyonight" />
- <img style="float:left" height="165px" align="center" src="https://github-readme-stats.vercel.app/api?username=dawichi&show_icons=true&include_all_commits=true&theme=tokyonight" />
+ <img style="float:left" height="165px" align="center" src="https://github-readme-stats.dawichi.vercel.app/api/top-langs/?username=dawichi&layout=compact&theme=tokyonight" />
+ <img style="float:left" height="165px" align="center" src="https://github-readme-stats.dawichi.vercel.app/api?username=dawichi&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </div><br/>
 
 <!-- Wakatime Stats -->
