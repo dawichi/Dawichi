@@ -8,7 +8,7 @@
 ### About me
 🖐Hi! My name is David, I'm a 21 years old **system admin** and **web developer**.
  
-💻 I'm currently doing an internship as sysadmin at [nubodata][1], deploying a network monitoring system.  
+💻 I'm currently working as web developer at [Dos Espacios][1].  
 📚 I'm increasing my knowledge on programming learning on [Udemy][2], [Platzi][3] & [w3schools][4].  
 👨‍💻 I intend to start **Software Engineering** next year.
 
@@ -134,7 +134,7 @@ Thanks for reading and have a nice day!
 
 
 <!-- Links -->
-[1]: https://nubodata.com/ "nubodata.com"
+[1]: https://www.dosespacios.com/ "dosespacios.com"
 [2]: https://www.udemy.com/ "udemy.com"
 [3]: https://platzi.com/ "platzi.com"
 [4]: https://www.w3schools.com/ "w3schools.com"
