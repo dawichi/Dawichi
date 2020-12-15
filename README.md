@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/dawichi_?label=Follow)](https://twitter.com/dawichi_)
 
 ### About me
-🖐Hi! My name is David, I'm a 21 years old **system admin** and **web developer**.
+🖐Hi! My name is David, I'm a 21 years old **web developer** and **system admin**.
  
 💻 I'm currently working as web developer at [Dos Espacios][1].  
 📚 I'm increasing my knowledge on programming learning on [Udemy][2], [Platzi][3] & [w3schools][4].  
