@@ -119,7 +119,8 @@ cloud-app                9 mins              ███████████�
 
 ---
 
-♥ Thanks for reading and have a nice day!
+Thanks for reading and have a nice day!
+♥ 감사합니다!
 
 
 
