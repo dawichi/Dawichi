@@ -72,7 +72,7 @@ Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, ema
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9936%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-194647%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -101,13 +101,17 @@ Sunday       9 commits      ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               10 mins             ███████████████░░░░░░░░░░   62.67% 
+Markdown                 3 mins              █████░░░░░░░░░░░░░░░░░░░░   22.59% 
+Git Config               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   9.75% 
+CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.59% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+gatsby-tutorial          17 mins             █████████████████████████   100.0%
 
 ```
 
