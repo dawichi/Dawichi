@@ -32,6 +32,8 @@ Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, ema
 <img width="30" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"/>
 <img width="30" src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg" />
 <img width="30" src="https://devicon.dev/devicon.git/icons/react/react-original.svg" />
+<img width="30" src="https://devicon.dev/devicon.git/icons/gatsby/gatsby-plain.svg" />
+<img width="30" src="https://img.icons8.com/color/2x/graphql.png" />
 <img width="30" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg"  />
 <img width="30" src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" />
 <img width="30" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg"  />
@@ -48,6 +50,8 @@ Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, ema
 
 **Other technologies:**  
 <img width="30" src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-plain.svg" />
+<img width="30" src="https://www.flaticon.es/svg/static/icons/svg/825/825533.svg" />
+<img width="30" src="https://devicon.dev/devicon.git/icons/drupal/drupal-original.svg" />
 <img width="30" src="https://devicon.dev/devicon.git/icons/slack/slack-original.svg" />
 <img width="30" src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" />
 <img width="30" src="https://devicon.dev/devicon.git/icons/git/git-original.svg" />
