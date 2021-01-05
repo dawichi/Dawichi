@@ -1,9 +1,9 @@
 ## David Miguel Fajardo Oubiña | @dawichi
-
-<!--[![website](https://img.shields.io/badge/Website-46a2f1.svg?&logo=Google-Chrome&logoColor=white&link=https://dawichi.github.io/)](https://dawichi.github.io/)-->
-[![GitHub followers](https://img.shields.io/github/followers/dawichi?label=Follow&style=social)](https://github.com/login?return_to=%2Fdawichi)
-[![Linkedin: dawichi](https://img.shields.io/badge/-dawichi-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawichi/)](https://www.linkedin.com/in/dawichi/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&logo=Google-Chrome&logoColor=white&color=blueviolet&link=https://dawichi.dev)](https://dawichi.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dawichi_?label=Follow)](https://twitter.com/dawichi_)
+[![Linkedin: dawichi](https://img.shields.io/badge/-dawichi-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawichi/)](https://www.linkedin.com/in/dawichi/)
+
+![----------------------------------------------------](https://github.com/Dawichi/Dawichi/blob/master/.github/hr-colored.png)
 
 ### About me
 🖐Hi! My name is David, I'm a 21 years old **web developer** and **system admin**.
@@ -23,6 +23,7 @@
 <img alt="germany" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-germany_1f1e9-1f1ea.png" width="30" />
 <img alt="france" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-france_1f1eb-1f1f7.png" width="30" />
 
+![----------------------------------------------------](https://github.com/Dawichi/Dawichi/blob/master/.github/hr-colored.png)
 
 ### Skills
 **Sysadmin:**  
@@ -62,7 +63,7 @@ Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, ema
 
 - 📧: [davidmf99@gmail.com](mailto:davidmf99@gmail.com)
 
----
+![----------------------------------------------------](https://github.com/Dawichi/Dawichi/blob/master/.github/hr-colored.png)
 
 ***New:*** My npm card! `npx dawichi`<br/>
 
@@ -123,8 +124,7 @@ dawichi.github.io        2 hrs 34 mins       ██████░░░░░�
 
 <!--END_SECTION:waka-->
 
-
----
+![----------------------------------------------------](https://github.com/Dawichi/Dawichi/blob/master/.github/hr-colored.png)
 
 Thanks for reading and have a nice day!
 ♥ 감사합니다!
