@@ -1,7 +1,7 @@
 ## David Miguel Fajardo Oubiña | @dawichi
 
 <!--[![website](https://img.shields.io/badge/Website-46a2f1.svg?&logo=Google-Chrome&logoColor=white&link=https://dawichi.github.io/)](https://dawichi.github.io/)-->
-[![GitHub followers](https://img.shields.io/github/followers/abdelyouni?label=Follow&style=social)](https://github.com/login?return_to=%2Fabdelyouni)
+[![GitHub followers](https://img.shields.io/github/followers/dawichi?label=Follow&style=social)](https://github.com/login?return_to=%2Fdawichi)
 [![Linkedin: dawichi](https://img.shields.io/badge/-dawichi-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawichi/)](https://www.linkedin.com/in/dawichi/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dawichi_?label=Follow)](https://twitter.com/dawichi_)
 
