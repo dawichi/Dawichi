@@ -75,7 +75,7 @@ Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, ema
 
 <!-- Wakatime Stats -->
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-250445%20lines%20of%20code-blue)
 
@@ -106,14 +106,13 @@ Sunday       19 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               58 mins             ██████████████████░░░░░░░   72.47% 
-SCSS                     22 mins             ███████░░░░░░░░░░░░░░░░░░   27.53%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 20 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-dawichi2                 1 hr 20 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
