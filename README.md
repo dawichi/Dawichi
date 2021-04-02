@@ -6,11 +6,11 @@
 ![----------------------------------------------------](https://github.com/Dawichi/Dawichi/blob/master/.github/hr-colored.png)
 
 ### About me
-🖐Hi! My name is David, I'm a 21 years old **web developer** and **system admin**.
+🖐Hi! My name is David, I'm a 21 years old **software developer** and **system admin**.
  
-💻 I'm currently working as web developer at [Dos Espacios][1].  
-📚 I'm increasing my knowledge on programming learning on [Udemy][2], [Platzi][3] & [w3schools][4].  
-👨‍💻 I intend to start **Software Engineering** next year.
+💻 I'm currently working as **frontend web developer** at [Dos Espacios][1].  
+📚 I continue increasing my knowledge on programming, learning on [Udemy][2], [Platzi][3], [freecodecamp][4] & [w3schools][5].  
+👨‍💻 I intend to start **Software Engineering** this year.
 
 😄 <span title="Spanish, Galician, English">**Polyglot**</span>, mastering my <span title="German">4º</span> & <span title="Korean">5º</span> langs.  
 🏀 **Sport** lover, no matter which!  
@@ -131,11 +131,21 @@ Thanks for reading and have a nice day!
 
 
 
+
+
+
+
+
+
 <!-- Links -->
 [1]: https://www.dosespacios.com/ "dosespacios.com"
 [2]: https://www.udemy.com/ "udemy.com"
 [3]: https://platzi.com/ "platzi.com"
-[4]: https://www.w3schools.com/ "w3schools.com"
+[4]: https://www.freecodecamp.org/ "freecodecamp.org"
+[5]: https://www.w3schools.com/ "w3schools.com"
+
+
+
 
 <!--
 Icons from:
@@ -148,6 +158,7 @@ https://github.com/anuraghazra/github-readme-stats
 Wakatime stats from:
 https://github.com/anmol098/waka-readme-stats
 -->
+
 
 
 
@@ -164,6 +175,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
