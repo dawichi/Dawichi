@@ -1,4 +1,6 @@
 ## David Miguel Fajardo Oubiña | @dawichi
+
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 <a href="#" onclick='window.open("https://dawichi.dev");return false;'>
     ![website](https://img.shields.io/badge/Website-46a2f1.svg?&logo=Google-Chrome&logoColor=white&color=blueviolet&link=https://dawichi.dev)
 </a>
