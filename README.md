@@ -29,7 +29,7 @@
 😄 <span title="Spanish, Galician, English">**Polyglot**</span>, mastering my <span title="German">4º</span> & <span title="Korean">5º</span> langs.  
 🏀 **Sport** lover, it doesn't matter which one!  
 👨‍🔬 I love **learning**, discovering how things work and understanding everything around me.  
-🌍 Dreaming of **traveling** to as many countries as possible!
+🌍 Dreaming of **traveling** to as many countries as possible!  
 <img alt="spain" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-spain_1f1ea-1f1f8.png" width="30" />
 <img alt="portugal" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-portugal_1f1f5-1f1f9.png" width="30" />
 <img alt="andorra" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-andorra_1f1e6-1f1e9.png" width="30" />
@@ -47,37 +47,55 @@
 ### └────────────────────────────────────────────────────────────
 -->
 <h2 align='center'>Skills</h2>
-<p>Check my <a href='https://dawichi.dev#skillset'>skillset</a> in my website!</p>
+<p align='center'>
+    Check my <a href='https://dawichi.dev#skillset'>skillset</a> in my website!
+</p>
+<p align='center'>
+    I'm specialized in <b>MERN stack</b> and <b>React Native</b>, <br/>
+    but I feel really comfortable working with other technologies as <b>Vue or Angular</b>.<br/>
+    Currently hard diving into <b>Python with Django</b>!
+</p>
 
+**Frontend:** My frontend technologies path  
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"  />
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"  />
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+**&xrArr;**
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" />
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"/>
+**&xrArr;**
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  />
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
+**&xrArr;**
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" />
+<img width="40" src="https://img.icons8.com/color/2x/graphql.png" />
 
-**Frontend:**  
-<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" />
-<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" />
-<img width="30" src="https://img.icons8.com/color/2x/graphql.png" />
-<img width="30" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg"  />
-<img width="30" src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" />
-<img width="30" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg"  />
-<img width="30" src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" />
+**Backend:** My main tools for backend  
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+**&diams;**
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"  />
+**&diams;**
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" />
+**&diams;**
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
 
-**Backend:**  
-<img width="30" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" />
-<img width="30" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" />
-<img width="30" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" />
-<img width="30" src="https://devicon.dev/devicon.git/icons/express/express-original.svg"  />
-<img width="30" src="https://devicon.dev/devicon.git/icons/php/php-plain.svg" />
-<img width="30" src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain.svg" />
-<img width="30" src="https://devicon.dev/devicon.git/icons/symfony/symfony-original.svg" />
 
 **Other technologies:**  
-<img width="30" src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-plain.svg" />
-<img width="30" src="https://www.flaticon.es/svg/static/icons/svg/825/825533.svg" />
-<img width="30" src="https://devicon.dev/devicon.git/icons/drupal/drupal-original.svg" />
-<img width="30" src="https://devicon.dev/devicon.git/icons/slack/slack-original.svg" />
-<img width="30" src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" />
-<img width="30" src="https://devicon.dev/devicon.git/icons/git/git-original.svg" />
-<img width="30" src="https://devicon.dev/devicon.git/icons/github/github-original.svg" />
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" />
+<img width="40" src="https://www.flaticon.es/svg/static/icons/svg/825/825533.svg" />
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original.svg" />
+<img width="40" src="https://devicon.dev/devicon.git/icons/slack/slack-original.svg" />
+<img width="40" src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" />
+<img width="40" src="https://devicon.dev/devicon.git/icons/git/git-original.svg" />
+<img width="40" src="https://devicon.dev/devicon.git/icons/github/github-original.svg" />
 
 - **Sysadmin:**  
 Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, email, IM, VoIP and Streaming. SQL databases administration. Software containers (Docker). Cisco Routing and Switching. Pentesting.
