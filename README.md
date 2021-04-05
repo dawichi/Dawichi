@@ -29,7 +29,7 @@
 😄 <span title="Spanish, Galician, English">**Polyglot**</span>, mastering my <span title="German">4º</span> & <span title="Korean">5º</span> langs.  
 🏀 **Sport** lover, it doesn't matter which one!  
 👨‍🔬 I love **learning**, discovering how things work and understanding everything around me.  
-🌍 Dreaming of **traveling** to as many countries as possible!  
+🌍 Dreaming of **traveling** to as many countries as possible!
 <img alt="spain" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-spain_1f1ea-1f1f8.png" width="30" />
 <img alt="portugal" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-portugal_1f1f5-1f1f9.png" width="30" />
 <img alt="andorra" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-andorra_1f1e6-1f1e9.png" width="30" />
@@ -47,9 +47,10 @@
 ### └────────────────────────────────────────────────────────────
 -->
 <h2 align='center'>Skills</h2>
-Check my [skillset](https://dawichi.dev#skillset) in my website!
+<p>Check my <a href='https://dawichi.dev#skillset'>skillset</a> in my website!</p>
 
-- **Frontend:**
+
+**Frontend:**  
 <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" />
 <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
