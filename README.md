@@ -48,12 +48,12 @@
 -->
 <h2 align='center'>Skills</h2>
 <p align='center'>
-    Check my <a href='https://dawichi.dev#skillset'>skillset</a> in my website!
+    Check  <a href='https://dawichi.dev'>my website</a> for more info!
 </p>
 <p align='center'>
     I'm specialized in <b>MERN stack</b> and <b>React Native</b>, <br/>
-    but I feel really comfortable working with other technologies as <b>Vue or Angular</b>.<br/>
-    Currently hard diving into <b>Python with Django</b>!
+    but I feel really comfortable working with other technologies as <b>Vue</b> or<b> Angular</b>.<br/>
+    Currently hard diving into <b>Python</b> with <b>Django</b>!
 </p>
 
 **Frontend:** My frontend technologies path  
@@ -76,29 +76,35 @@
 **Backend:** My main tools for backend  
 <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-**&diams;**
+**&boxh;**
 <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"  />
-**&diams;**
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"  />
+
+**&boxh;**
 <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
 <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
 <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" />
-**&diams;**
+**&boxh;**
 <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
 
-
-**Other technologies:**  
+**CMS:** Medium knowledge of mostly used ones  
 <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" />
-<img width="40" src="https://www.flaticon.es/svg/static/icons/svg/825/825533.svg" />
+<img width="40" src="https://avatars.githubusercontent.com/u/19872173?s=200&v=4" />
 <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original.svg" />
-<img width="40" src="https://devicon.dev/devicon.git/icons/slack/slack-original.svg" />
-<img width="40" src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" />
-<img width="40" src="https://devicon.dev/devicon.git/icons/git/git-original.svg" />
-<img width="40" src="https://devicon.dev/devicon.git/icons/github/github-original.svg" />
+<img width="40" src="https://www.flaticon.es/svg/static/icons/svg/825/825533.svg" />
 
-- **Sysadmin:**  
-Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, email, IM, VoIP and Streaming. SQL databases administration. Software containers (Docker). Cisco Routing and Switching. Pentesting.
+**Other:** Cause a good work needs good tools    
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" />
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" />
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
+
+**Sysadmin:**
+I am qualified as a sysadmin, and although it's not my main field nowadays I have good knowledge in Linux administration and services! ^^
 
 
 
