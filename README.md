@@ -1,21 +1,35 @@
-## David Miguel Fajardo Oubiña | @dawichi
+<!--
+### ┌────────────────────────────────────────────────────────────
+### │	                         INTRO
+### └────────────────────────────────────────────────────────────
+-->
+## David M. Fajardo Oubiña | @dawichi
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&logo=Google-Chrome&logoColor=white&color=blueviolet&link=https://dawichi.dev)](https://dawichi.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dawichi_?label=Follow)](https://twitter.com/dawichi_)
 [![Linkedin: dawichi](https://img.shields.io/badge/-dawichi-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawichi/)](https://www.linkedin.com/in/dawichi/)
 
 ![----------------------------------------------------](https://github.com/Dawichi/Dawichi/blob/master/.github/hr-colored.png)
 
-### About me
-🖐Hi! My name is David, I'm a 21 years old **software developer** and **system admin**.
+
+
+<!--
+### ┌────────────────────────────────────────────────────────────
+### │	                         ABOUT ME
+### └────────────────────────────────────────────────────────────
+-->
+<h2 align='center'>About me</h2>
+<br />
+
+🖐Hi! My name is David, I'm a 21 years old **software developer**.
  
 💻 I'm currently working as **frontend web developer** at [Dos Espacios][1].  
-📚 I continue increasing my knowledge on programming, learning on [Udemy][2], [Platzi][3], [freecodecamp][4] & [w3schools][5].  
+📚 I'm increasing my knowledge on programming, learning on [Udemy][2], [Platzi][3], [freecodecamp][4] & [w3schools][5].  
 👨‍💻 I intend to start **Software Engineering** this year.
 
 😄 <span title="Spanish, Galician, English">**Polyglot**</span>, mastering my <span title="German">4º</span> & <span title="Korean">5º</span> langs.  
-🏀 **Sport** lover, no matter which!  
-👨‍🔬 I love **learn** new things by myself, discover how things works and understand everything around me.  
-🌍 Dreaming of **travel to** as many countries as possible!  
+🏀 **Sport** lover, it doesn't matter which one!  
+👨‍🔬 I love **learning**, discovering how things work and understanding everything around me.  
+🌍 Dreaming of **traveling** to as many countries as possible!  
 <img alt="spain" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-spain_1f1ea-1f1f8.png" width="30" />
 <img alt="portugal" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-portugal_1f1f5-1f1f9.png" width="30" />
 <img alt="andorra" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-andorra_1f1e6-1f1e9.png" width="30" />
@@ -25,11 +39,17 @@
 
 ![----------------------------------------------------](https://github.com/Dawichi/Dawichi/blob/master/.github/hr-colored.png)
 
-### Skills
-**Sysadmin:**  
-Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, email, IM, VoIP and Streaming. SQL databases administration. Software containers (Docker). Cisco Routing and Switching. Pentesting.
 
-**Frontend:**  
+
+<!--
+### ┌────────────────────────────────────────────────────────────
+### │	                         SKILLSET
+### └────────────────────────────────────────────────────────────
+-->
+<h2 align='center'>Skills</h2>
+Check my [skillset](https://dawichi.dev#skillset) in my website!
+
+- **Frontend:**
 <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" />
 <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
@@ -58,19 +78,38 @@ Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, ema
 <img width="30" src="https://devicon.dev/devicon.git/icons/git/git-original.svg" />
 <img width="30" src="https://devicon.dev/devicon.git/icons/github/github-original.svg" />
 
+- **Sysadmin:**  
+Especialized on CentOS (Red Hat). Knowledge on services DNS, DHCP, FTP, WEB, email, IM, VoIP and Streaming. SQL databases administration. Software containers (Docker). Cisco Routing and Switching. Pentesting.
 
-✍If you are searching for new contributors for a proyect, wanna ask me something or offer me a job, you can contact me on:
 
-- 📧: [davidmf99@gmail.com](mailto:davidmf99@gmail.com)
+
+<!--
+### ┌────────────────────────────────────────────────────────────
+### │	                         CONTACT
+### └────────────────────────────────────────────────────────────
+-->
+<h1 align='center'>📧</h1>
+<p align='center'>
+    If you are looking for new contributors for your project or startup, you wanna ask me something
+    or if I can help you with anything else; you could contact me in this <a href='mailto:davidmf99@gmail.com'>email</a>.
+</p>
 
 ![----------------------------------------------------](https://github.com/Dawichi/Dawichi/blob/master/.github/hr-colored.png)
 
-***New:*** My npm card! `npx dawichi`<br/>
+
+
+<!--
+### ┌────────────────────────────────────────────────────────────
+### │	                         EXTRA INFO
+### └────────────────────────────────────────────────────────────
+-->
+***My npm card!*** `npx dawichi`
+<br/>
 
 <!-- Github Readme Stats - Projects, most used languages and user info -->
 <div>
- <img style="float:left" height="165px" align="center" src="https://github-readme-stats.dawichi.vercel.app/api/top-langs/?username=dawichi&layout=compact&theme=tokyonight" />
- <img style="float:left" height="165px" align="center" src="https://github-readme-stats.dawichi.vercel.app/api?username=dawichi&show_icons=true&include_all_commits=true&theme=tokyonight" />
+ <img height="165px" align="center" src="https://github-readme-stats.dawichi.vercel.app/api/top-langs/?username=dawichi&layout=compact&theme=tokyonight" />
+ <img height="165px" align="center" src="https://github-readme-stats.dawichi.vercel.app/api?username=dawichi&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </div><br/>
 
 <!-- Wakatime Stats -->
@@ -134,18 +173,12 @@ Thanks for reading and have a nice day!
 
 
 
-
-
-
-
 <!-- Links -->
 [1]: https://www.dosespacios.com/ "dosespacios.com"
 [2]: https://www.udemy.com/ "udemy.com"
 [3]: https://platzi.com/ "platzi.com"
 [4]: https://www.freecodecamp.org/ "freecodecamp.org"
 [5]: https://www.w3schools.com/ "w3schools.com"
-
-
 
 
 <!--
@@ -159,7 +192,6 @@ https://github.com/anuraghazra/github-readme-stats
 Wakatime stats from:
 https://github.com/anmol098/waka-readme-stats
 -->
-
 
 
 
