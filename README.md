@@ -165,8 +165,10 @@
 
 <!-- Github Readme Stats - Projects, most used languages and user info -->
 <div>
+ <!--
  <img height="165px" align="center" src="https://github-readme-stats.dawichi.vercel.app/api/top-langs/?username=dawichi&layout=compact&theme=tokyonight" />
  <img height="165px" align="center" src="https://github-readme-stats.dawichi.vercel.app/api?username=dawichi&show_icons=true&include_all_commits=true&theme=tokyonight" />
+ -->
 </div><br/>
 
 <!-- Wakatime Stats -->
