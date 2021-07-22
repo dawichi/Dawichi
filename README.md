@@ -97,10 +97,6 @@
     <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"  />
     <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"  />
     &boxh;
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" />
-    &boxh;
     <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
     <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
 </p>
