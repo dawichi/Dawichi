@@ -50,9 +50,11 @@
 ### └────────────────────────────────────────────────────────────
 -->
 <h2 align='center'>Skills</h2>
+
 <p align='center'>
     Check  <a href='https://dawichi.dev'>my website</a> for more info!
 </p>
+
 <p align='center'>
     I'm specialized in <b>MERN stack</b> and <b>React Native</b>, <br/>
     but I feel really comfortable working with other technologies as <b>Vue</b> or<b> Angular</b>.<br/>
