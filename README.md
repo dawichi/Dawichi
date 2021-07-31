@@ -83,6 +83,7 @@
     <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
     <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" />
     <img width="40" src="https://img.icons8.com/color/2x/graphql.png" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </p>
 
 
