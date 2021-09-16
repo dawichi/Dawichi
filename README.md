@@ -27,7 +27,7 @@
  
 💻 I'm currently working as **frontend developer** at [Dos Espacios][1].  
 📚 I'm increasing my knowledge on programming, learning on [Udemy][2], [Platzi][3], [freecodecamp][4], [w3schools][5] & other.  
-👨‍💻 I intend to start **Software Engineering** this year.
+👨‍💻 I'm currently studying **Software Engineering**.
 
 😄 <span title="Spanish, Galician, English">**Polyglot**</span>, mastering my <span title="German">4º</span> & <span title="Korean">5º</span> langs.  
 🏀 **Sport** lover, it doesn't matter which one!  
