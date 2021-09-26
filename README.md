@@ -23,7 +23,7 @@
 <h2 align='center'>About me</h2>
 <br />
 
-🖐Hi! My name is David, I'm a 21 years old **software developer**.
+🖐Hi! My name is David, I'm a 22 years old **software developer**.
  
 💻 I'm currently working as **frontend developer** at [Dos Espacios][1].  
 📚 I'm increasing my knowledge on programming, learning on [Udemy][2], [Platzi][3], [freecodecamp][4], [w3schools][5] & other.  
@@ -114,7 +114,6 @@
     <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" />
     <img width="40" src="https://avatars.githubusercontent.com/u/19872173?s=200&v=4" />
     <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original.svg" />
-    <img width="40" src="https://www.flaticon.es/svg/static/icons/svg/825/825533.svg" />
 </p>
 
 
