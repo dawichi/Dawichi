@@ -25,13 +25,13 @@
 
 🖐Hi! My name is David, I'm a 22 years old **software developer**.
  
-💻 I'm currently working as **frontend developer** at [Dos Espacios][1].  
+💻 I'm currently working as **frontend developer** with **React and React Native** at [Dos Espacios][1].  
 📚 I'm increasing my knowledge on programming, learning on [Udemy][2], [Platzi][3], [freecodecamp][4], [w3schools][5] & other.  
-👨‍💻 I'm currently studying **Software Engineering**.
+👨‍💻 I'm currently studying **Telecommunication Engineering**.
 
 😄 <span title="Spanish, Galician, English">**Polyglot**</span>, mastering my <span title="German">4º</span> & <span title="Korean">5º</span> langs.  
 🏀 **Sport** lover, it doesn't matter which one!  
-👨‍🔬 I love **learning**, discovering how things work and understanding everything around me.  
+👨‍🔬 I love discovering how things around me work, **never stop learning!**.  
 🌍 Dreaming of **traveling** to as many countries as possible!  
 <img alt="spain" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-spain_1f1ea-1f1f8.png" width="30" />
 <img alt="portugal" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-portugal_1f1f5-1f1f9.png" width="30" />
@@ -52,7 +52,7 @@
 <h2 align='center'>Skills</h2>
 
 <p align='center'>
-    Check  <a href='https://dawichi.dev'>my website</a> for more info!
+    Check  <a href='https://dawichi.dev'><strong>my website</strong></a> for more info!
 </p>
 
 <p align='center'>
