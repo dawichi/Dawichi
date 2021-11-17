@@ -23,10 +23,10 @@
 <h2 align='center'>About me</h2>
 <br />
 
-🖐Hi! My name is David, I'm a 22 years old **software developer**.
+🖐Hi! My name is David, I'm a 22 years old **Software Engineer**.
  
-💻 I'm currently working as **frontend developer** with **React and React Native** at [Dos Espacios][1].  
-📚 I'm increasing my knowledge on programming, learning on [Udemy][2], [Platzi][3], [freecodecamp][4], [w3schools][5] & other.  
+💻 I'm currently working as **Backend Engineer** with **NodeJS** at [Bizaway][1].  
+📚 I keep studying on [Platzi][3], [Udemy][2], [freecodecamp][4], [w3schools][5] & other.  
 👨‍💻 I'm currently studying **Telecommunication Engineering**.
 
 😄 <span title="Spanish, Galician, English">**Polyglot**</span>, mastering my <span title="German">4º</span> & <span title="Korean">5º</span> langs.  
