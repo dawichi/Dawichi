@@ -229,7 +229,7 @@ Thanks for reading and have a nice day!
 
 
 <!-- Links -->
-[1]: https://www.dosespacios.com/ "dosespacios.com"
+[1]: https://bizaway.com/ "bizaway.com"
 [2]: https://www.udemy.com/ "udemy.com"
 [3]: https://platzi.com/ "platzi.com"
 [4]: https://www.freecodecamp.org/ "freecodecamp.org"
