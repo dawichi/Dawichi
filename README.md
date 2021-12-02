@@ -26,8 +26,8 @@
 🖐Hi! My name is David, I'm a 22 years old **Software Engineer**.
  
 💻 I'm currently working as **Backend Engineer** with **NodeJS** at [Bizaway][1].  
-📚 I keep studying on [Platzi][3], [Udemy][2], [freecodecamp][4], [w3schools][5] & other.  
-👨‍💻 I'm currently studying **Telecommunication Engineering**.
+📚 I keep self learning on [Platzi][3], [Udemy][2], [freecodecamp][4], [w3schools][5] & other.  
+👨‍💻 I'm currently studying **Software Engineering** in the [Universitat Oberta de Catalunya][6].
 
 😄 <span title="Spanish, Galician, English">**Polyglot**</span>, mastering my <span title="German">4º</span> & <span title="Korean">5º</span> langs.  
 🏀 **Sport** lover, it doesn't matter which one!  
@@ -234,8 +234,7 @@ Thanks for reading and have a nice day!
 [3]: https://platzi.com/ "platzi.com"
 [4]: https://www.freecodecamp.org/ "freecodecamp.org"
 [5]: https://www.w3schools.com/ "w3schools.com"
-
-
+[6]: https://www.uoc.edu/ "Universitat Oberta de Catalunya"
 <!--
 Icons from:
 https://devicon.dev/
