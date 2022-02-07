@@ -107,19 +107,7 @@
 
 <br>
 <p align='center'>
-    &star; <b>CMS</b> &star; <br/>
-    Medium knowledge of mostly used ones
-</p>
-<p align='center'>
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" />
-    <img width="40" src="https://avatars.githubusercontent.com/u/19872173?s=200&v=4" />
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original.svg" />
-</p>
-
-
-<br>
-<p align='center'>
-    &star; <b>Other</b> &star; <br/>
+    &star; <b>Toolset</b> &star; <br/>
     Cause a good work needs good tools
 </p>
 <p align='center'>
@@ -133,11 +121,6 @@
 
 
 <br>
-<p align='center'>
-    &star; <b>Sysadmin</b> &star; <br/>
-    I am qualified as a sysadmin, and although it's not my main field nowadays,<br/>
-    I have good knowledge in Linux administration and services! ^^
-</p>
 
 
 
@@ -174,9 +157,6 @@
 
 <!-- Wakatime Stats -->
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-302828%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -199,22 +179,6 @@ Saturday     12 commits     █░░░░░░░░░░░░░░░░�
 Sunday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.14%
 
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               1 hr                ███████████████████████░░   91.78% 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.1% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
-
-🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.0%
-
-```
-
 
 <!--END_SECTION:waka-->
 
