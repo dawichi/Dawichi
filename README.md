@@ -3,15 +3,12 @@
 ### │	                         INTRO
 ### └────────────────────────────────────────────────────────────
 -->
-## David M. Fajardo Oubiña | @dawichi
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&logo=Google-Chrome&logoColor=white&color=blueviolet&link=https://dawichi.dev)](https://dawichi.dev)
 [![Linkedin: dawichi](https://img.shields.io/badge/-dawichi-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawichi/)](https://www.linkedin.com/in/dawichi/)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-46a2f1.svg?&logo=Python&logoColor=white&color=darkgreen&link=https://www.hackerrank.com/dawichi)](https://www.hackerrank.com/dawichi)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dawichi_?label=Follow)](https://twitter.com/dawichi_)
 
 
-
-![----------------------------------------------------](https://github.com/Dawichi/Dawichi/blob/master/.github/hr-colored.png)
 
 
 
@@ -26,21 +23,13 @@
 🖐Hi! My name is David, I'm a 22 years old **Software Engineer**.
  
 💻 I'm currently working as **Backend Engineer** with **NodeJS** at [Bizaway][1].  
-📚 I keep self learning on [Platzi][3], [Udemy][2], [freecodecamp][4], [w3schools][5] & other.  
-👨‍💻 I'm currently studying **Software Engineering** in the [Universitat Oberta de Catalunya][6].
+📚 **Self learning** on [Platzi][3], [Udemy][2], [freecodecamp][4] & other.  
+👨‍💻 **Software Engineering** student in the [UOC][6].
 
-😄 <span title="Spanish, Galician, English">**Polyglot**</span>, mastering my <span title="German">4º</span> & <span title="Korean">5º</span> langs.  
-🏀 **Sport** lover, it doesn't matter which one!  
-👨‍🔬 I love discovering how things around me work, **never stop learning!**.  
-🌍 Dreaming of **traveling** to as many countries as possible!  
-<img alt="spain" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-spain_1f1ea-1f1f8.png" width="30" />
-<img alt="portugal" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-portugal_1f1f5-1f1f9.png" width="30" />
-<img alt="andorra" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-andorra_1f1e6-1f1e9.png" width="30" />
-<img alt="czech" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-czech-republic_1f1e8-1f1ff.png" width="30" />
-<img alt="germany" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-germany_1f1e9-1f1ea.png" width="30" />
-<img alt="france" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-france_1f1eb-1f1f7.png" width="30" />
+😄 Polyglot, digital nomad and sport lover. I love discovering how things around me work, **never stop learning!**  
+🌍 Dreaming of traveling to as many countries as possible!  
 
-![----------------------------------------------------](https://github.com/Dawichi/Dawichi/blob/master/.github/hr-colored.png)
+
 
 
 
@@ -57,14 +46,14 @@
 
 <p align='center'>
     I'm specialized in <b>MERN stack</b> and <b>React Native</b>, <br/>
-    but I feel really comfortable working with other technologies such as <b>Vue</b> or<b> Angular</b>.<br/>
+    but I feel comfortable working with any other JS framework such as <b>Vue</b> or<b> Angular</b>.<br/>
     Currently hard diving into <b>Python</b> with <b>Django</b>!
 </p>
 
 
 <br>
 <p align='center'>
- &star; <b>Frontend</b> &star; <br/>
+ <b>Frontend</b><br/>
     My frontend technologies path 
 </p>
 <p align='center'>
@@ -86,7 +75,7 @@
 
 <br>
 <p align='center'>
-    &star; <b>Backend</b> &star; <br/>
+    <b>Backend</b><br/>
     My main tools for backend
 </p>
 <p align='center'>
@@ -95,7 +84,6 @@
     &boxh;
     <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
     <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"  />
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"  />
     &boxh;
     <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
     <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
@@ -104,7 +92,7 @@
 
 <br>
 <p align='center'>
-    &star; <b>Toolset</b> &star; <br/>
+    <b>Toolset</b><br/>
     Cause a good work needs good tools
 </p>
 <p align='center'>
@@ -126,7 +114,7 @@
 ### │	                         CONTACT
 ### └────────────────────────────────────────────────────────────
 -->
-<h1 align='center'>📧</h1>
+<h2 align='center'>Contact</h2>
 <p align='center'>
     If you are looking for new contributors for your project or startup, you wanna ask me something
     or if I can help you with anything else; you could contact me at this <a href='mailto:davidmf99@gmail.com'>email</a>.
@@ -152,37 +140,8 @@
 </div>
 <br/>
 
-<!-- Wakatime Stats -->
-<!--START_SECTION:waka-->
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-🌆 Daytime    43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.77% 
-🌃 Evening    147 commits    █████████████████░░░░░░░░   71.01% 
-🌙 Night      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.86%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       35 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.91% 
-Tuesday      36 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
-Wednesday    41 commits     █████░░░░░░░░░░░░░░░░░░░░   19.81% 
-Thursday     33 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.94% 
-Friday       29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
-Saturday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.8% 
-Sunday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.14%
-
-```
-
-<!--END_SECTION:waka-->
-
-![----------------------------------------------------](https://github.com/Dawichi/Dawichi/blob/master/.github/hr-colored.png)
-
-Thanks for reading and have a nice day!
-♥ 감사합니다!
+Thanks for reading! ♥ 감사합니다!
 
 
 
