@@ -46,7 +46,7 @@
 
 <p align='center'>
     I'm specialized in <b>MERN stack</b> and <b>React Native</b>, <br/>
-    but I feel comfortable working with any other JS framework such as <b>Vue</b> or<b> Angular</b>.<br/>
+    but I feel comfortable working with any other JS framework such as <b>Vue</b> or<b> Svelte</b>.<br/>
     Currently hard diving into <b>Python</b> with <b>Django</b>!
 </p>
 
