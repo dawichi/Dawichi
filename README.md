@@ -5,7 +5,6 @@
 -->
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&logo=Google-Chrome&logoColor=white&color=blueviolet&link=https://dawichi.dev)](https://dawichi.dev)
 [![Linkedin: dawichi](https://img.shields.io/badge/-dawichi-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawichi/)](https://www.linkedin.com/in/dawichi/)
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-46a2f1.svg?&logo=Python&logoColor=white&color=darkgreen&link=https://www.hackerrank.com/dawichi)](https://www.hackerrank.com/dawichi)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dawichi_?label=Follow)](https://twitter.com/dawichi_)
 
 
@@ -47,62 +46,9 @@
 <p align='center'>
     I'm specialized in <b>MERN stack</b> and <b>React Native</b>, <br/>
     but I feel comfortable working with any other JS framework such as <b>Vue</b> or<b> Svelte</b>.<br/>
-    Currently hard diving into <b>Python</b> with <b>Django</b>!
+    Currently hard diving into <b>Django</b> and <b>SvelteKit</b>!
 </p>
 
-
-<br>
-<p align='center'>
- <b>Frontend</b><br/>
-    My frontend technologies path 
-</p>
-<p align='center'>
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"  />
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
-    &xrArr;
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"/>
-    &xrArr;
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  />
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-    &xrArr;
-    <img width="40" src="https://img.icons8.com/color/2x/graphql.png" />
-    <img width="40" src="https://www.solidjs.com/assets/logo.123b04bc.svg" />
-    <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/498px-Svelte_Logo.svg.png?20191219133350" />
-</p>
-
-
-<br>
-<p align='center'>
-    <b>Backend</b><br/>
-    My main tools for backend
-</p>
-<p align='center'>
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-    &boxh;
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"  />
-    &boxh;
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
-</p>
-
-
-<br>
-<p align='center'>
-    <b>Toolset</b><br/>
-    Cause a good work needs good tools
-</p>
-<p align='center'>
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
-</p>
 
 
 <br>
