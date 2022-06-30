@@ -37,8 +37,7 @@
 -->
 <h2 align='center'>Contact</h2>
 <p align='center'>
-    If you are looking for new contributors for your project or startup, you wanna ask me something
-    or if I can help you with anything else; you could contact me at this <a href='mailto:davidmf99@gmail.com'>email</a>.
+    You may contact me at this <a href='mailto:davidmf99@gmail.com'>email</a>.
 </p>
 
 ![----------------------------------------------------](https://github.com/Dawichi/Dawichi/blob/master/.github/hr-colored.png)
