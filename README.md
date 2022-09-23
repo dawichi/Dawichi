@@ -5,7 +5,6 @@
 -->
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&logo=Google-Chrome&logoColor=white&color=blueviolet&link=https://dawichi.dev)](https://dawichi.dev)
 [![Linkedin: dawichi](https://img.shields.io/badge/-dawichi-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawichi/)](https://www.linkedin.com/in/dawichi/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/dawichi_?label=Follow)](https://twitter.com/dawichi_)
 
 
 
@@ -19,13 +18,13 @@
 <h2 align='center'>About me</h2>
 <br />
 
-🖐Hi! My name is David, I'm a 22 years old **Software Engineer**.
+🖐Hi! My name is David, I'm a 22 years old **Software Engineer** based in Spain 🇪🇸.
  
 💻 I'm currently working as **Backend Engineer** with **NodeJS** at [Bizaway][1].  
-📚 **Self learning** on [Platzi][3], [Udemy][2], [freecodecamp][4] & other.  
-👨‍💻 **Software Engineering** student in the [UOC][6].
+📚 **Self learning** on [freecodecamp][4], [Udemy][2], [Platzi][3] & other.
 
-😄 Polyglot, digital nomad and sport lover. I love discovering how things around me work, **never stop learning!**  
+🧳 Polyglot, digital nomad and sport lover.  
+🧪 I love discovering how things around me work.  
 🌍 Dreaming of traveling to as many countries as possible!  
 
 
