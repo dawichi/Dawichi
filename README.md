@@ -18,7 +18,7 @@
 <h2 align='center'>About me</h2>
 <br />
 
-🖐Hi! My name is David, I'm a 22 years old **Software Engineer** based in Spain 🇪🇸.
+🖐Hi! My name is David, I'm a 23 years old **Software Engineer** based in Spain 🇪🇸.
  
 💻 I'm currently working as **Backend Engineer** with **NodeJS** at [Bizaway][1].  
 📚 **Improving myself** on [freecodecamp][4], [Udemy][2], [Platzi][3] & other.
