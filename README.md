@@ -21,7 +21,7 @@
 🖐Hi! My name is David, I'm a 22 years old **Software Engineer** based in Spain 🇪🇸.
  
 💻 I'm currently working as **Backend Engineer** with **NodeJS** at [Bizaway][1].  
-📚 **Self learning** on [freecodecamp][4], [Udemy][2], [Platzi][3] & other.
+📚 **Improving myself** on [freecodecamp][4], [Udemy][2], [Platzi][3] & other.
 
 🧳 Polyglot, digital nomad and sport lover.  
 🧪 I love discovering how things around me work.  
