@@ -3,8 +3,7 @@
 ### │	                         INTRO
 ### └────────────────────────────────────────────────────────────
 -->
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&logo=Google-Chrome&logoColor=white&color=blueviolet&link=https://dawichi.dev)](https://dawichi.dev)
-[![Linkedin: dawichi](https://img.shields.io/badge/-dawichi-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawichi/)](https://www.linkedin.com/in/dawichi/)
+[![Linkedin: dawichi](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue)](https://www.linkedin.com/in/dawichi/)
 
 
 
