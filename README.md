@@ -6,21 +6,8 @@
 [![Linkedin: dawichi](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue)](https://www.linkedin.com/in/dawichi/)
 
 
-
-
-
-<!--
-### ┌────────────────────────────────────────────────────────────
-### │	                         ABOUT ME
-### └────────────────────────────────────────────────────────────
--->
-<h2 align='center'>About me</h2>
-<br />
-
-🖐Hi! My name is David, I'm a 23 years old **Software Engineer** based in Spain 🇪🇸.
- 
-💻 I'm currently working as **Backend Engineer** with **NodeJS** at [Bizaway][1].  
-📚 **Improving myself** on [freecodecamp][4], [Udemy][2], [Platzi][3] & other.
+🖐Hi! My name is David, I'm a 23 years old **Software Engineer** based in Spain 🇪🇸.  
+💻 I'm currently working as **Backend Engineer** at [Bizaway][1].  
 
 🧳 Polyglot, digital nomad and sport lover.  
 🧪 I love discovering how things around me work.  
