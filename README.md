@@ -38,15 +38,10 @@
 <br/>
 
 <!-- Github Readme Stats - Projects, most used languages and user info -->
-<!-- TODO: handle a new api on vercel -->
 <div>
  <img height="165px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dawichi&layout=compact&theme=tokyonight" />
  <img height="165px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dawichi&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </div>
-<br/>
-
-
-Thanks for reading! ♥ 감사합니다!
 
 
 
@@ -60,17 +55,6 @@ Thanks for reading! ♥ 감사합니다!
 [4]: https://www.freecodecamp.org/ "freecodecamp.org"
 [5]: https://www.w3schools.com/ "w3schools.com"
 [6]: https://www.uoc.edu/ "Universitat Oberta de Catalunya"
-<!--
-Icons from:
-https://devicon.dev/
-https://github.com/devicons/devicon/
-
-Stats from:
-https://github.com/anuraghazra/github-readme-stats
-
-Wakatime stats from:
-https://github.com/anmol098/waka-readme-stats
--->
 
 
 
