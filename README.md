@@ -6,7 +6,7 @@
 [![Linkedin: dawichi](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue)](https://www.linkedin.com/in/dawichi/)
 
 
-🖐Hi! My name is David, I'm a 23 years old **Software Engineer** based in Spain 🇪🇸.  
+🖐Hi! My name is David, I'm a 24 years old **Software Engineer** based in Spain 🇪🇸.  
 💻 I'm currently working as **Backend Engineer** at [Bizaway][1].  
 
 🧳 Polyglot, digital nomad and sport lover.  
