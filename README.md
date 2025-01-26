@@ -13,18 +13,6 @@
 🧪 I love discovering how things around me work.  
 🌍 Dreaming of traveling to as many countries as possible!  
 
-
-
-<!--
-### ┌────────────────────────────────────────────────────────────
-### │	                         CONTACT
-### └────────────────────────────────────────────────────────────
--->
-<h2 align='center'>Contact</h2>
-<p align='center'>
-    You may contact me at this <a href='mailto:davidmf99@gmail.com'>email</a>.
-</p>
-
 ![----------------------------------------------------](https://github.com/Dawichi/Dawichi/blob/master/.github/hr-colored.png)
 
 
